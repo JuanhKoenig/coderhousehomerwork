@@ -1,0 +1,24 @@
+main {
+    background-color: rgb(231, 231, 148);
+}
+
+
+h1 {
+    text-align: center;
+}
+
+.solution {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    max-width: fit-content;
+    padding: 5%;
+}
+
+button {
+    max-width: 50%;
+}
